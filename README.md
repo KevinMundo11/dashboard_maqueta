@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://mcd.unison.mx/wp-content/uploads/2020/02/400dpiLogoCropped-300x294.png" alt="logo" width="150">
+</div>
+
 # Dashboard Project
 This project contains an interactive dashboard developed in Streamlit that analyzes literacy, alcohol consumption habits, and mental health in Mexico.
 ## **Requirements**
